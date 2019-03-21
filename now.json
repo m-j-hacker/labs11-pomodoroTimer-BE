@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "name": "labs11-pomodoroTimer-BE",
+  "public": true,
+  "builds": [
+    {
+      "src": "api/users/index.js",
+      "use": "@now/node"
+    }
+  ]
+}
